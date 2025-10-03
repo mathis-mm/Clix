@@ -7,4 +7,4 @@ This project is developed and maintained by [Yutho](https://github.com/Yutho-tv)
 
 > **Note:** Clix is not open source yet.
 
-<img width="1710" height="991" alt="image" src="https://github.com/user-attachments/assets/faf7e904-6d21-4fb9-ac71-2dae706715ed" />
+<img width="1710" height="991" alt="image" src="https://github.com/user-attachments/assets/f9f39b83-f8c7-49fe-ba43-b261210bc57e" />
